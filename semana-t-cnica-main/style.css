@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding:20px;
+}
+h1{
+    text-align: center;
+    
+}
+ul{
+    list-style-type: disc;
+    padding-left: 20px;
+}
+header{
+    border-style: solid;
+    border-width:4px ;
+    border-color:blue;
+    border-radius: 4px;
+}
+.violão{
+    width: 400px;
+}
+h2{
+    border-style: solid;
+    border-width:4px ;
+    border-color:blue;
+    border-radius: 4px;
+    text-align: center; 
+}
